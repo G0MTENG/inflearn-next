@@ -1,0 +1,11 @@
+.cartsWrapper {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.cartContainer {
+    display: flex;
+    align-items: center;
+}
