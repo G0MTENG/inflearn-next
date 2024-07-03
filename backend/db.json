@@ -183,24 +183,6 @@
   ],
   "carts": [
     {
-      "id": "0",
-      "name": "Refined Fresh Chicken",
-      "price": "209.00",
-      "imageUrl": "https://cdn.pixabay.com/user/2016/03/26/22-06-36-459_250x250.jpg"
-    },
-    {
-      "id": "1",
-      "name": "Intelligent Metal Mouse",
-      "price": "84.00",
-      "imageUrl": "https://cdn.pixabay.com/user/2023/05/21/19-38-51-804_250x250.jpg"
-    },
-    {
-      "id": "17",
-      "name": "Sleek Soft Shirt",
-      "price": "654.00",
-      "imageUrl": "https://cdn.pixabay.com/user/2019/09/03/08-47-18-877_250x250.jpg"
-    },
-    {
       "id": "14",
       "name": "Ergonomic Concrete Cheese",
       "price": "339.00",

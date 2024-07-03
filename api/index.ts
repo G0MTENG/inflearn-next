@@ -26,4 +26,14 @@ function fetchCarts() {
   return instance.get('/carts')
 }
 
-export { fetchProducts, fetchProductById, createCartItem, fetchCarts }
+function deleteCart(id: string) {
+  return instance.delete(`/carts/${id}`)
+}
+
+export {
+  fetchProducts,
+  fetchProductById,
+  createCartItem,
+  fetchCarts,
+  deleteCart,
+}
